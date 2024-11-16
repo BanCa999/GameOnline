@@ -1,6 +1,6 @@
 {
-    "name": "Banca999WebGL5",
-    "short_name": "Banca999WebGL5",
+    "name": "Banca999",
+    "short_name": "Banca999",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#1F1F20",
