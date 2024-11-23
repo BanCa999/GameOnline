@@ -1,4 +1,4 @@
-const cacheName = "unity-Banca999-1.0";
+const cacheName = "unity-Bắn Cá 999-1.0";
 const contentToCache = [
     "Build/WebManualBuild.loader.js",
     "Build/WebManualBuild.framework.js",
